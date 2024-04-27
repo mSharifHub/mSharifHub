@@ -1,4 +1,6 @@
 ### Hi, I am sharif, Junior Software Engineer 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07"/>
+
 <a href="https://www.linkedin.com/in/mohamed-sharif-47301520b/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" style="height: 28px;"/>
 </a>
