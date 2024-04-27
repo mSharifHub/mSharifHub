@@ -1,5 +1,10 @@
 ### Hi, I am sharif, Junior Software Engineer 👋
 
-<img alt="myStats" src="https://github-readme-stats.vercel.app/api?username=mSharifHub&show_icons=true&theme=dracula"/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mSharifHub)](https://github.com/mSharifHub/github-readme-stats)
+<div style="display: flex; ">
+    <div style="flex: 1; padding: 5px;">
+        <img alt="myStats" src="https://github-readme-stats.vercel.app/api?username=mSharifHub&show_icons=true&theme=dracula" style="width: 100%;"/>
+    </div>
+    <div style="flex: 1; padding: 5px;">
+        <img alt="myLanguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mSharifHub&layout=compact" style="width: 100%;"/>
+    </div>
+</div>
