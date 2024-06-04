@@ -1,5 +1,5 @@
 <div>
-<h1 align="center">Hi 👋, I'm Sharif</h1>
+
 <h3 align="center">Recent Computer Science Graduate and focus on Application Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msharifhub&label=Profile%20views&color=0e75b6&style=flat" alt="msharifhub" /> </p>
