@@ -2,29 +2,6 @@
 
 <h3 align="center"> Master Computer Science Student</h3>
 
-
-              
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=msharifhub&label=Profile%20views&color=0e75b6&style=flat" alt="msharifhub" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msharifhub" alt="msharifhub" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@m__sharif__" target="blank"><img src="https://img.shields.io/twitter/follow/@m__sharif__?logo=twitter&style=for-the-badge" alt="@m__sharif__" /></a> </p>
-
-- 🔭 I’m currently working on [Youtube Clone](https://github.com/mSharifHub/youtubeClone)
-
-- 🌱 I’m currently learning **Django, Vue, AWS, C#, .NET**
-
-- 📫 How to reach me **msharifemail@gmail.com**
-
-<p align="left">
-<a href="https://twitter.com/@m__sharif__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@m__sharif__" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohamed sharif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed sharif" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/msharif_89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="msharif_89" height="30" width="40" /></a>
-</p>
-
-
 <h3>Languages found on repository</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-blue" alt="JavaScript" />
