@@ -1,9 +1,8 @@
 <div>
 
-<h3 align="center">Recent Computer Science Graduate and focus on Application Development</h3>
+<h3 align="center"> Master Computer Science Student</h3>
 
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="mohamed-sharif-47301520b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/mohamed-sharif-47301520b?trk=profile-badge">Mohamed Sharif Linkedin</a></div>
               
 
 
