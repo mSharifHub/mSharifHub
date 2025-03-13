@@ -8,9 +8,9 @@
       <td style="width:50%; height:100%; padding:0;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msharifhub&show_icons=true&locale=en&layout=compact&theme=dracula" alt="msharifhub" style="width:100%; height:400px; object-fit:cover;" />
       </td>
-      <td style="width:50%; height:100%; padding:0;">
+<!--       <td style="width:50%; height:100%; padding:0;">
         <img src="https://github-readme-stats.vercel.app/api?username=msharifhub&show_icons=true&locale=en&theme=dracula" alt="msharifhub" style="width:100%; height:400px; object-fit:cover;" />
-      </td>
+      </td> -->
     </tr>
     <tr style="height:50%;">
       <td colspan="2" style="width:100%; height:400px; padding:0;">
