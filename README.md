@@ -1,6 +1,5 @@
 <div>
 
-<h3 align="center"> Master Computer Science Student Focus On Machine Learning</h3>
 
 <div style="width:100vw; height:100vh; display:flex; align-items:center; justify-content:center;">
   <table style="width:100%; height:100%; border-collapse: collapse; table-layout: fixed;">
