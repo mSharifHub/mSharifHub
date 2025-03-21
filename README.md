@@ -1,6 +1,12 @@
+
+
+
+[![LinkedIn: Mohamed Sharif](https://img.shields.io/badge/Visit%20My-LinkedIn%20Profile-blueviolet?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamed-sharif-47301520b/)
+
+
+
+              
 <div>
-
-
 <div style="width:100vw; height:100vh; display:flex; align-items:center; justify-content:center;">
   <table style="width:100%; height:100%; border-collapse: collapse; table-layout: fixed;">
     <tr style="height:50%;">
