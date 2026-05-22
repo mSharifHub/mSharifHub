@@ -7,11 +7,7 @@
 
   <br/><br/>
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=msharifhub&show_icons=true&locale=en&layout=compact&theme=dracula" 
-    alt="Top Langs" 
-    width="100%"
-  />
+ 
 
   <br/><br/>
 
