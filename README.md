@@ -6,7 +6,7 @@
   <div>
     <strong>My areas of focus and interest are</strong>
   </div>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=BD93F9&center=true&vCenter=true&width=800&lines=Large+Language+Models+And+Machine+Perception" alt="Typing Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=BD93F9&center=true&vCenter=true&width=800&lines=Large+Language+Models+And+Agentic+AI" alt="Typing Headline" />
 </div>
 <!-- Social & Contact Badges -->
 <p align="center">
