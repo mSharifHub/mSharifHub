@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <span> My areas of focus and interest are</span>
+  <strong>My areas of focus and interest are\t</strong>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Large+Language+Models+Machine+Perception" alt="Typing Headline" />
 </div>
 
