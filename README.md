@@ -25,7 +25,7 @@
 
 - 🎓 I’m currently a **Graduate Student** specializing in Large Language Models and Agentic AI.
 - 🧠 Exploring the frontiers of **Agentic AI**, **Large Language Models (LLMs)**, and data-driven systems.
-- 🚀 Currently working on Building A Large Language Model for Crypto Currency Investments and use as part of an agentic workflow
+- 🚀  Building A Natural Language Agentic tool on terminal with a pretrained and fine tune model
 - 🤝 Looking to collaborate on: **Open-source ML tools, Full-Stack AI integrations**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/mohamed-sharif-47301520b/)**
 
