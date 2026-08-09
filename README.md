@@ -1,13 +1,6 @@
 
 <h1 align="center">Hi there, I'm Sharif</h1>
 
-
-<div align="center">
-  <div>
-    <strong>My areas of focus and interest are</strong>
-  </div>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=BD93F9&center=true&vCenter=true&width=800&lines=Autonomous+Vehicles+And+Robotics" alt="Typing Headline" />
-</div>
 <!-- Social & Contact Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-sharif-47301520b/">
