@@ -1,5 +1,4 @@
-
-<h1 align="center">Hi there, I'm Sharif</h1>
+<h1 align="center">Hi there, I'm Sharif 👋</h1>
 
 <!-- Social & Contact Badges -->
 <p align="center">
@@ -9,13 +8,18 @@
   <a href="mailto:YOUR_EMAIL_HERE@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
- 
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 I’m currently a **Graduate Student** doing a Master in Machine Learning And Artificial Intelligence
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/mohamed-sharif-47301520b/)**
+<p align="center">
+  <img width="480" height="268" alt="Profile Visual" src="https://github.com/user-attachments/assets/06c2bb81-bb55-4c0c-82f5-c60fd776e232" />
+</p>
 
+- 🎓 **Graduate Student** at Drexel University, pursuing a Master's in Machine Learning and Artificial Intelligence.
+- 🚘 **Currently Working On:** Autonomous vehicle simulation (CARLA, Unreal Engine) and deep learning algorithms.
+- 💻 **Tech Stack:** Python, PyTorch, PySpark, Pandas, and NumPy.
+- 💼 <img width="120" alt="Looking" src="https://github.com/user-attachments/assets/50f4292e-f575-4e4f-8c26-d2720c39c110" align="absmiddle" /> **actively for internships and full-time roles** in Software Engineering and AI.
+- 📫 **How to reach me:** **[LinkedIn](https://www.linkedin.com/in/mohamed-sharif-47301520b/)**
