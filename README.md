@@ -14,9 +14,6 @@
 
 ## 👨‍💻 About Me
 
-<p align="center">
-  <img width="480" height="268" alt="Profile Visual" src="https://github.com/user-attachments/assets/06c2bb81-bb55-4c0c-82f5-c60fd776e232" />
-</p>
 
 - 🎓 **Graduate Student** at Drexel University, pursuing a Master's in Machine Learning and Artificial Intelligence.
 - 🚘 **Currently Working On:** Autonomous vehicle simulation (CARLA, Unreal Engine) and deep learning algorithms.
