@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Sharif 👋</h1>
+<h1 align="center">Hi there, I'm Marcus 👋</h1>
 
 <!-- Social & Contact Badges -->
 <p align="center">
