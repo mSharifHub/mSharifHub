@@ -22,7 +22,7 @@
 - **Actively seeking full-time roles** as an LLM and Machine Learning Engineer.
 - **Specialized in** scalable applications, Agentic AI architectures, Large Language Models, and building complex data pipelines.
 
-## Technical Arsenal
+## Technical Skills
 
 - **AI & Machine Learning:** PyTorch, Keras, NumPy, Pandas, PySpark, Computer Vision, RAG, LangGraph, LLM Pre-training & Finetuning.
 - **Languages:** Python, Java, C, C++, Kotlin, Scala, SQL/MySQL.
